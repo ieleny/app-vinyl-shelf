@@ -7,6 +7,7 @@
 Funcionalidades Essenciais para o App
 - Filtro por Gênero/Ano: Organizar a "estante" virtual da mesma forma que a física.
 - Integração com Discogs API: Essencial para puxar metadados, capas e valores de mercado automaticamente.
+   - https://www.discogs.com/developers/#page:home,header:home-quickstart
 
 Identidade Visual
 - Ícone: Uma silhueta de estante onde as lombadas dos livros são, na verdade, discos de vinil coloridos.
