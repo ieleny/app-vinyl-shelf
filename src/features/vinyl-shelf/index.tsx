@@ -1,10 +1,12 @@
+import './vinyl-shelf.scss'
+
 const VinylShelf = () => {
 
   return (
-    <>
-      <h1>Estante de vinils</h1>
-    </>
-  )
+    <div className='vinyl-shelf'>
+      <h1 className='vinyl-shelf-title'>Estante de vinils</h1>
+    </div>
+  );
 }
 
 export default VinylShelf
