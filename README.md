@@ -14,6 +14,9 @@
 ## Tecnologicas
 Node: 24.14.0
 
+## Arquitetura
+Link: https://medium.com/@rohitkuwar/react-architecture-a-complete-guide-for-scalable-front-end-applications-05e2ab8a79d7
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
