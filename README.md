@@ -15,7 +15,9 @@
 Node: 24.14.0
 
 ## Arquitetura
-Link: https://medium.com/@rohitkuwar/react-architecture-a-complete-guide-for-scalable-front-end-applications-05e2ab8a79d7
+
+https://medium.com/@rohitkuwar/react-architecture-a-complete-guide-for-scalable-front-end-applications-05e2ab8a79d7
+https://medium.com/@viniciusvibrich/feature-based-estrutura-escal%C3%A1vel-para-projetos-complexos-505448ec86c1
 
 ## React + TypeScript + Vite
 
