@@ -1,0 +1,10 @@
+.vinyl-shelf {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-shrink: 1;
+
+    &-title {
+        color: aqua;
+    }
+}
