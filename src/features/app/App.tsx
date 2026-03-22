@@ -1,4 +1,4 @@
-import VinylShelf from "../vinyl-shelf"
+import VinylShelf from '../vinyl-shelf'
 
 function App() {
   return (
