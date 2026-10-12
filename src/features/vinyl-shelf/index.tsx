@@ -1,15 +1,23 @@
 import './vinyl-shelf.scss'
+import './vinyl-shelf-text.scss';
 
 const VinylShelf = () => {
 
   return (
     <div className='vinyl-shelf'>
-      <h1 className='vinyl-shelf-title'>Ranking albuns favoritos </h1>
+      <div className='wrapper'>
+        <h1
+          className='neon-text rotating-text'
+          data-text='Ranking albuns favoritos'
+        >
+          Ranking albuns favoritos
+        </h1>
+      </div>
 
       <div className='vinyl-shelf-bookcase-content'>
         <div className='vinyl-shelf-albums'>
           <h4>1 - 5</h4>
-          
+
           <button>
             <img
               className='vinyl-shelf-album-size'

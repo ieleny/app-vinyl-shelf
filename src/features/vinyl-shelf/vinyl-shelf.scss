@@ -5,19 +5,7 @@
     flex-shrink: 1;
     background-color: rgb(238, 200, 150);
     flex-direction: column;
-
-    &-title {
-        color: #80502b;
-    }
-
-    &-space_one {
-        top: 40%;
-    }
-
-    &-space_two {
-        top: 70%;
-    }
-
+    
     &-bookcase {
         display: flex;
         justify-content: center;
