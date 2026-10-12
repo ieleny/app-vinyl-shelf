@@ -4,10 +4,12 @@ const VinylShelf = () => {
 
   return (
     <div className='vinyl-shelf'>
-      <h1 className='vinyl-shelf-title'>Estante de vinils</h1>
+      <h1 className='vinyl-shelf-title'>Ranking albuns favoritos </h1>
 
       <div className='vinyl-shelf-bookcase-content'>
         <div className='vinyl-shelf-albums'>
+          <h4>1 - 5</h4>
+          
           <button>
             <img
               className='vinyl-shelf-album-size'
@@ -23,11 +25,13 @@ const VinylShelf = () => {
           </button>
         </div>
 
-        <div className='vinyl-shelf-bookcase vinyl-shelf-space_one' />
+        <div className='vinyl-shelf-bookcase' />
       </div>
 
       <div className='vinyl-shelf-bookcase-content'>
         <div className='vinyl-shelf-albums'>
+          <h4>5 - 10</h4>
+
           <button>
             <img
               className='vinyl-shelf-album-size'
@@ -43,7 +47,7 @@ const VinylShelf = () => {
           </button>
         </div>
 
-        <div className='vinyl-shelf-bookcase vinyl-shelf-space_one' />
+        <div className='vinyl-shelf-bookcase' />
       </div>
     </div>
   );
